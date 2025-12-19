@@ -20,8 +20,11 @@ Table: soccer-project-480914.Soccer.SoccerSet
 
 ## Files
 -Soccer_Analysis
+ 
   -Images
+  
   -Output_Data
+  
   -Raw_Data
 
 ## Tools & Technologies
