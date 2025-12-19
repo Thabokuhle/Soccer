@@ -18,6 +18,12 @@ Table: soccer-project-480914.Soccer.SoccerSet
 - Contract expiry analysis
 - Goals and assists contribution
 
+## Files
+-Soccer_Analysis
+  -Images
+  -Output_Data
+  -Raw_Data
+
 ## Tools & Technologies
 - Google BigQuery
 - SQL
